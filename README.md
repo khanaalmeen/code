@@ -9,7 +9,7 @@ Python Programming Codes
 
 
 # [Project 2 - Customer Segmentation using K means clustering](https://github.com/khanaalmeen/code/blob/main/kmeans%20Clustering%20-Mall%20customer%20Segmentation.ipynb)
-* The given dataset() was gathered through a feedback survey and the spending score was calculated on the basis of several factors like how often does the customer visit the mall, how much of amount does he spend on shopping and also on entertainment and food. Based on this,a good spending score which is close to 100 indicates a good customer and spending score close to 1 indicates a bad customer. 
+* The given dataset(https://github.com/khanaalmeen/code/blob/main/Mall_Customers%20(1).csv) was gathered through a feedback survey and the spending score was calculated on the basis of several factors like how often does the customer visit the mall, how much of amount does he spend on shopping and also on entertainment and food. Based on this,a good spending score which is close to 100 indicates a good customer and spending score close to 1 indicates a bad customer. 
 * Applied K-means clustering algorithm to find out the potential customers to roll out special offer to them.
 * Outcome is to find out the optimum number of segments that can be generated, segment the customers and help the company with the potential customers.
 
