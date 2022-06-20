@@ -6,3 +6,11 @@ Python Programming Codes
 * The dataset contains statistics about the increase in sales of a product in 200 different months, together with advertising budgets in each of these months for different media channels: TV, radio and newspaper. The budget and the increase in sales is in thousands of dollars. 
 * I have implemented a regression technique and predicted what would be the increase in sales given the advertisement expenditure for that month.
 * Used Ridge, lasso regression to determine R2,Adjusted R2 and RMSE of the model.
+
+
+# [Project 2 - Customer Segmentation using K means clustering]
+* The given dataset was gathered through a feedback survey and the spending score was calculated on the basis of several factors like how often does the customer visit the mall, how much of amount does he spend on shopping and also on entertainment and food. Based on this,a good spending score which is close to 100 indicates a good customer and spending score close to 1 indicates a bad customer. 
+* Applied K-means clustering algorithm to find out the potential customers to roll out special offer to them.
+* Outcome is to find out the optimum number of segments that can be generated, segment the customers and help the company with the potential customers.
+
+
